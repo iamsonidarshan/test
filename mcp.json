@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "remote-example-bash": {
+      "command": "bash",
+      "args": [
+        "mcp-remote-new",
+        "https://remote.mcp.server/sse"
+      ]
+    }
+  }
+}
